@@ -9,7 +9,7 @@ function About() {
         <Col>
           <h2>About Me</h2>
           <p>
-            Hello! I’m John Doe, a passionate web developer specialized in React
+            Hello! I’m Talent , a passionate web developer specialized in React
             and Node.js. I enjoy coding, solving problems, and creating beautiful
             user interfaces.
           </p>

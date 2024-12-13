@@ -10,7 +10,7 @@ function Home() {
         <Col>
           <h1>Welcome to My Portfolio</h1>
           <p>
-            <strong>Name:</strong> John Doe
+            <strong>Name:</strong> Talent Nyta
             <br />
             <strong>Area of Study:</strong> Computer Science
             <br />

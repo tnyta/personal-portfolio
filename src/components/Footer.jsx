@@ -14,7 +14,7 @@ function Footer() {
                     </Row>
                     <Row>
                         <Col>
-                            <Button variant="primary" href="https://github.com/your-username" target="_blank" rel="noreferrer">
+                            <Button variant="primary" href="https://github.com/tnyta/personal-portfolio" target="_blank" rel="noreferrer">
                                 GitHub
                             </Button>
                         </Col>

@@ -12,7 +12,7 @@ function Home() {
           <p>
             <strong>Name:</strong> Talent Nyta
             <br />
-            <strong>Area of Study:</strong> Computer Science
+            <strong>Area of Study:</strong> Mobile Development
             <br />
             <strong>Course:</strong> INFT3101
           </p>

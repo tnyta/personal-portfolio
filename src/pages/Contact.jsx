@@ -73,7 +73,7 @@ function Contact() {
           <h4>Alternatively, find me on:</h4>
           <ul>
             <li>
-              <a href="https://github.com/your-username" target="_blank" rel="noreferrer">
+              <a href="https://github.com/tnyta/personal-portfolio" target="_blank" rel="noreferrer">
                 GitHub
               </a>
             </li>

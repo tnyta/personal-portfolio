@@ -78,7 +78,7 @@ function Contact() {
               </a>
             </li>
             <li>
-              <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noreferrer">
+              <a href="https://www.linkedin.com/in/talentnyota/" target="_blank" rel="noreferrer">
                 LinkedIn
               </a>
             </li>

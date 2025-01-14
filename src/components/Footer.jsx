@@ -19,7 +19,7 @@ function Footer() {
                             </Button>
                         </Col>
                         <Col>
-                            <Button variant="primary" href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noreferrer">
+                            <Button variant="primary" href="https://www.linkedin.com/in/talentnyota/" target="_blank" rel="noreferrer">
                                 LinkedIn
                             </Button>
                         </Col>
